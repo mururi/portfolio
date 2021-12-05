@@ -159,6 +159,12 @@ h2 span {
   font-weight: 700;
   font-size: 24px;
   line-height: 28px;
+  transition: all ease-in-out 250ms;
+}
+
+.works-text a:hover {
+  color: #fff;
+  transform: scale(1.1);
 }
 
 .works-text p {
@@ -206,11 +212,17 @@ textarea {
   width: 468px;
   height: 60px;
   background-color: transparent;
-  border: none;
   border: 2px solid #fff;
   font-weight: 700;
   font-size: 24px;
   color: #fff;
+  transition: all ease-in-out 250ms;
+}
+
+#submit:hover {
+  border: none;
+  background-color: #fff;
+  color: #1d1d1d;
 }
 
 #connect img {
