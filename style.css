@@ -6,6 +6,11 @@
   font-family: 'Raleway', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+/*Hero Section Styling*/
 #hero-container {
   background-color: #222;
   min-height: 100vh;
@@ -156,7 +161,6 @@ h2 span {
 /*Connect Section Styling*/
 #connect {
   width: 100%;
-  min-height: 100vh;
   background-color: #1d1d1d;
   display: flex;
   justify-content: center;
@@ -201,4 +205,5 @@ textarea {
 #connect img {
   align-items: flex-end;
   height: min-content;
+  padding-top: 120px;
 }
