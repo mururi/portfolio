@@ -158,5 +158,26 @@ h2 span {
   width: 100%;
   min-height: 100vh;
   background-color: #1d1d1d;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 7% 0px 7%;
 }
 
+#connect-form {
+  flex-basis: 40%;
+}
+
+.field {
+  width: 468px;
+  height: 60px;
+  margin-bottom: 50px;
+  border: none;
+  outline: none;
+  font-weight: 400;
+  font-size: 24px;
+  padding-left: 30px;
+}
+
+#connect img {
+  align-items: flex-end;
+}
