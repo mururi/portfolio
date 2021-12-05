@@ -4,7 +4,7 @@
 ## Description 
 This my portfolio website with about me, my work and contact me sections. The website has a modern dark themed design.
 
-![portfolio website](./images/portfolio-website.png)
+![portfolio website](/images/portfolio-website.png)
 ## Setup/Installation Requirements 
 ### Requirements
 * A computer, tablet or phone
