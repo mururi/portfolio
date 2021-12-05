@@ -14,7 +14,7 @@ This my portfolio website with about me, my work and contact me sections. The we
 Ensure that your device of choice has a browser installed.
 Click the link provided below to view the site.
 
-
+https://mururi.github.io/portfolio/
 
 ## Technologies Used 
 * HTML - This was used to build the structure of the web pages.
