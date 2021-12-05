@@ -90,13 +90,13 @@ nav ul li a:hover {
   padding: 50px 7% 50px 7%;
 }
 
-#about-me h2 {
+h2 {
   font-weight: 800;
   font-size: 72px;
   color: #f36b50;
 }
 
-#about-me h2 span {
+h2 span {
   font-weight: 600;
   color: #fff;
 }
