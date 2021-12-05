@@ -49,6 +49,9 @@ nav ul li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .hero img {
@@ -63,7 +66,7 @@ nav ul li a:hover {
   font-size: 144px;
   font-weight: 800;
   color: #fff;
-  margin-left: -100px;
+  text-align: right;
 }
 
 .hero-row h4 {
