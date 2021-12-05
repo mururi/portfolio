@@ -129,12 +129,27 @@ h2 span {
   margin-left: auto;
   margin-right: auto;
 }
-.work-item {
+.works-item {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  align-items: center;
   gap: 60px;
-  margin: 40px 0 40px 0;
-  
+  padding: 40px 0 40px 0;
+}
+
+.works-text a {
+  text-decoration: none;
+  color: #f36b50;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.works-text p {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23.5px;
+  color: #fff;
+  padding-top: 17px;
 }
 
