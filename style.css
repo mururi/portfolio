@@ -113,7 +113,6 @@ h2 span {
 #about-me table {
   color: #fff;
   border-collapse: separate;
-  border-spacing: 50px;
   font-weight: 500;
   font-size: 20px;
   line-height: 23px;
@@ -121,6 +120,9 @@ h2 span {
   margin-right: auto;
 }
 
+#about-me table tr td {
+  padding: 20px 100px;
+}
 .heading {
   font-weight: 700;
   font-size: 20px;
