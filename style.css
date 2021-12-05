@@ -153,3 +153,10 @@ h2 span {
   padding-top: 17px;
 }
 
+/*Connect Section Styling*/
+#connect {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #1d1d1d;
+}
+
