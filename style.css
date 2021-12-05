@@ -167,7 +167,11 @@ h2 span {
   flex-basis: 40%;
 }
 
-.field {
+#connect-form h2 {
+  padding-bottom: 20px;
+}
+
+.field, textarea {
   width: 468px;
   height: 60px;
   margin-bottom: 50px;
@@ -178,6 +182,23 @@ h2 span {
   padding-left: 30px;
 }
 
+textarea {
+  height: 250px;
+  padding-top: 15px;
+}
+
+#submit {
+  width: 468px;
+  height: 60px;
+  background-color: transparent;
+  border: none;
+  border: 2px solid #fff;
+  font-weight: 700;
+  font-size: 24px;
+  color: #fff;
+}
+
 #connect img {
   align-items: flex-end;
+  height: min-content;
 }
